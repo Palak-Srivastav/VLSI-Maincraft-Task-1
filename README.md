@@ -1,4 +1,4 @@
-# VLSI-Maincraft-Task-1
+# VLSI-Maincraft-Tasks
 This task is made using Logisim which uses Java Environment to perform tasks.
 Logisim : http://www.cburch.com/logisim/ 
 and Java Environment : https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252907_0d06828d282343ea81775b28020a7cd3
